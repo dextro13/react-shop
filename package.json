@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/dextro13/react-shop.github.io",
   "name": "react-shop",
   "version": "1.0.0",
   "description": "react eshop",
@@ -12,7 +13,7 @@
     "react",
     "javascript"
   ],
-  "author": "Oscar Barajas <oscar@platzi.com>",
+  "author": "Andres Ruiz <pipe.ruiz1998@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.15.0",
