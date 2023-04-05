@@ -6,8 +6,8 @@ module.exports = {
 	entry: './src/index.js',
 	output: {
 		path: path.resolve(__dirname, 'dist'),
-		filename: 'bundle.js',
-		publicPath: '/'
+		filename: 'react-shop.github.io/bundle.js',
+		publicPath: '/react-shop.github.io/'
 	},
 	mode: 'development',
 	resolve: {
